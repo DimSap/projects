@@ -1,4 +1,4 @@
-# projects  
+# Treatment effect in AB  
 
 Необходимо оценить treatment effect. Даны 3 датасета:  
                                        
